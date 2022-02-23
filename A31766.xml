@@ -1,0 +1,420 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Charity and loyalty of some of our clergy in a short view of Dr. M's sermon before their Majesties at Hampton-Court, July the 14th, 1689 : where-in he still charges the Protestant dissenters with schism : with some occasional remarks upon a clergy-mans considerations for taking the Oath of allegiance to King William and Queen Mary, and upon the history of passive obedience since the Reformation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31766</idno>
+            <idno type="STC">Wing C2068</idno>
+            <idno type="STC">ESTC R23924</idno>
+            <idno type="EEBO-CITATION">07922678</idno>
+            <idno type="OCLC">ocm 07922678</idno>
+            <idno type="VID">40481</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40481)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1201:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Charity and loyalty of some of our clergy in a short view of Dr. M's sermon before their Majesties at Hampton-Court, July the 14th, 1689 : where-in he still charges the Protestant dissenters with schism : with some occasional remarks upon a clergy-mans considerations for taking the Oath of allegiance to King William and Queen Mary, and upon the history of passive obedience since the Reformation.</title>
+               </titleStmt>
+               <extent>24 [i.e. 36] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Church of England.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40481:1" rendition="simple:additions"/>
+            <pb facs="tcp:40481:1" rendition="simple:additions"/>
+            <p>THE CHARITY and LOYALTY Of ſome of our CLERGY. IN A ſhort View of Dr. <hi>M</hi>'s SERMON before their Majeſties at <hi>Hampton-Court, July</hi> the 14th, 1689. Where<g ref="char:EOLhyphen"/>in he ſtill charges the Proteſtant Diſ<g ref="char:EOLhyphen"/>ſenters with Schiſm.</p>
+            <p>With ſome occaſional Remarks upon a Clergy<g ref="char:EOLhyphen"/>mans Conſiderations for taking the Oath of Allegiance to King WILLIAM and Queen MARY.</p>
+            <p>And upon the Hiſtory of Paſſive Obedience ſince the Reformation.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Janeway</hi> in Queen's-head-Court in <hi>Pater-noſter-Row,</hi> MDCLXXXIX.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:40481:2"/>
+            <pb n="5" facs="tcp:40481:2"/>
+            <head>THE CHARITY and LOYALTY Of ſome of our CLERGY.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOU might well be backward in cre<g ref="char:EOLhyphen"/>diting the Account I gave you of Dr. <hi>M</hi>'s ſeeming pacific Ser<g ref="char:EOLhyphen"/>mon: Yet I hope now it is out in Print, you are abundantly ſatisfi<g ref="char:EOLhyphen"/>ed, that though he would not be thought to <hi>repine at the Indulgence now granted to the ſeveral Diſſenters amongſt us;</hi>
+               <note place="margin">
+                  <hi>Page</hi> 27.</note> he cannot for<g ref="char:EOLhyphen"/>bear the old charitable Appellation of <hi>Schiſmaticks:</hi> And I think there can be no greater Evidence of be<g ref="char:EOLhyphen"/>ing in a Paſſion, of one ſort or other, than the giving hard Words, or calling Names. To do this before the glorious <hi>Repairers</hi> of thoſe <hi>Breaches</hi> which ſome among us would be continually making, you may well believe not to be very diſcreet: But there is a certain Bigottry which, I may ſay, fatally tranſports ſome Men.</p>
+            <p>When the chief Marragers againſt the <hi>Prote<g ref="char:EOLhyphen"/>ſtant Diſſenters</hi> ſeem'd weary or aſhamed of thoſe Arguments, which they by ſad Experience
+<pb n="6" facs="tcp:40481:3"/>found equally ſerviceable to the Papiſts: when the <hi>Political <g ref="char:V">Ʋ</g>nion</hi> between Chriſt and Believers yielded to the <hi>Spiritual;</hi> and a fancy'd <hi>Catholick-Communion,</hi> in Rites and Ceremonies, to one upon the Terms of <hi>common Chriſti<g ref="char:EOLhyphen"/>anity;</hi>
+               <note place="margin">Compare a certain Treatiſe of <g ref="char:V">Ʋ</g>nion and Communion with Chriſt Jeſus; and two Sermons of the ſame Perſons about Church Communion, with his Treatiſe of the <g ref="char:V">Ʋ</g>nity of the Church, and another of Proteſtant Principles.</note> It might ſeem ſtrange to have the old Cant revived by one of leſs Art, though ſmoother Addreſs: Were it not that the Errors of the Lea<g ref="char:EOLhyphen"/>ders of any Party ſtand for Maxims and Principles, till plainly retracted. And though the Mortification may be ſevere to Fleſh and Blood; yet whoever has ſerv'd the Papiſts or Arbitrary Pow<g ref="char:EOLhyphen"/>er with his Doctrines, ought, if he be of Reputa<g ref="char:EOLhyphen"/>tion with his Party, the rather to ſuffer an Eclipſe of his Fame by coming to the Stool of Repentance, leſt that very Fame help to ſpread the Contagion, and make his Errors Canonical. The Church indeed, whoſe Articles and Homilies they profeſs to receive, is far from authorizing their Conceits: but Men are apt to believe that they hear the Voice of the Church from the Pulpit; and that the <hi>Prieſt's Lips preſerve</hi> the true <hi>Knowledg;</hi> yet I think no Man need deſire greater Advantage for confuting their Eccleſiaſtical or Civil Politicks, than the laying hold of what themſelves own in cool Blood.</p>
+            <p>Though the Doctor, on whom I now animadvert, has nothing of any Moment, but what we may eaſi<g ref="char:EOLhyphen"/>ly trace him in from one of the Leaders: Yet in one reſpect he is himſelf an Original; being the firſt, who,
+<note place="margin">
+                  <hi>Page</hi> 27.</note> to uſe his excellent Chime, has admoniſh'd Men, though the Law has given them <hi>Liberty of Conſcience, to make Conſcience of their Liberty:</hi> Or that charges the Proteſtant Diſſenters with <hi>Schiſm,</hi>
+               <note place="margin">Ibid.</note> notwithſtanding the <hi>Legal Indulgence</hi> or <hi>Eaſe.</hi>
+            </p>
+            <pb n="7" facs="tcp:40481:3"/>
+            <p>Which though I muſt own to be but an Opiate, which allays, but does not remove the Diſtemper; yet I cannot for my life underſtand how Non-com<g ref="char:EOLhyphen"/>pliance with Rites and Ceremonies inſtituted by hu<g ref="char:EOLhyphen"/>mane Laws, ſhould be a Schiſm, when the ſame Law allows a Liberty: and would gladly know what is that Law of Chriſt which is <hi>immutable and not to be repealed,</hi>
+               <note place="margin">
+                  <hi>Pape</hi> 28.</note> obliging Men to communicate in thoſe Rites and Ceremonies, which he never enjoyn<g ref="char:EOLhyphen"/>ed; nor were enjoyned by any Law, but what ceaſes to be one to him, whom it allows in a Diſſent from thoſe who are in poſſeſſion of the Profits.</p>
+            <p>If it be ſaid,
+<note place="margin">
+                  <hi>Page</hi> 24.</note> That he charges Schiſm only upon ſuch as <hi>Hypocritically and Maliciouſly make Breaches and Diſturbances in a Church, to revenge or advance themſelves by the ruin of it.</hi>
+            </p>
+            <p n="1">1ſt. It is evident, that if he do not inſinuate that all Diſſenters are thus Guilty,
+<note place="margin">
+                  <hi>Page</hi> 16. &amp; 23.</note> he therein departs from his Queſtion, which is of ſuch as upon <hi>diſſatis<g ref="char:EOLhyphen"/>faction divide, and will not join with us.</hi>
+               <note place="margin">
+                  <hi>Page</hi> 23.</note>
+            </p>
+            <p n="2">2ly. Even theſe, as ſuch, are terrified with <hi>what the Fathers have declared about this Matter,</hi> that is, <hi>dividing upon Diſſatisfaction:</hi> Upon which, he ſays, <hi>the Fathers, conſidering the ill effects and conſequences of Schiſm, have pronounced it as heinous a Sin as any whatſoever.</hi>
+            </p>
+            <p>Wherefore the matter to which this Cenſure is apply'd, being <hi>dividing upon Diſſatisfaction;</hi> this, if he ſpeak conſiſtently, is <hi>Schiſm</hi> in the Lan<g ref="char:EOLhyphen"/>guage of the Fathers. Nor can any Inconſiſten<g ref="char:EOLhyphen"/>cies or Contradictions be thought to qualify po<g ref="char:EOLhyphen"/>ſitive Aſſertions, till they are as poſitively re<g ref="char:EOLhyphen"/>nounc'd.</p>
+            <p>Nay, he ſays in another Place,
+<note place="margin">
+                  <hi>Page</hi> 18.</note> that <hi>though the Recuſants here are greater Schiſmaticks than any
+<pb n="8" facs="tcp:40481:4"/>other Separatiſts among us: Yet neither can any of the other that ſeparate, well clear themſelves from being ſuch.</hi> So that according to him, the Pro<g ref="char:EOLhyphen"/>teſtant Diſſenters in general (not only ſuch as <hi>ma<g ref="char:EOLhyphen"/>liciouſly and hypocritically make Breaches) cannot well clear themſelves from being Schiſmaticks.</hi> And he adviſes ſuch Diſſenters <hi>not to preſume and encourage themſelves in that Separation,</hi>
+               <note place="margin">
+                  <hi>Page</hi> 27.</note> which he will have to be <hi>cauſeleſs, becauſe che Laws of the Land are ſo favourable to inflict no Penalties upon them for it. Theſe,</hi> ſays he, <hi>do not undertake to juſtify the Thing, as if it were no Sin, only forbear to judg in it, and leave us wholly to the Law of Chriſt, which is immutable, and not to be re<g ref="char:EOLhyphen"/>pealed.</hi>
+            </p>
+            <p>So that he, it ſeems, is wiſer than the Law, and does judg them guilty of this Sin of <hi>Schiſm,</hi> though the Law forbears to judg ſo. But there is more than this in the matter, and little leſs than a Re<g ref="char:EOLhyphen"/>flection upon the <hi>Parliament,</hi> for making a Sin be<g ref="char:EOLhyphen"/>fore God lawful to be committed: And if <hi>Schiſm</hi> be as heinous a Sin as any, and yet the <hi>Parliament</hi> makes this lawful; others will ſay, it might better make Murder ſo far lawful as to take off the Sanction by Penalties, which the Laws againſt it have. For admit all humane Penalties were taken away from Murder, it would be no leſs a Sin in the Eyes of all Men. Whereas in this caſe a Man incurs the danger of ſinning in the Doctor's ſenſe, without a ſufficient Buoy: For, as all Religious Aſſemblies, with other Rites and Ceremonies than thoſe which are: uſed according to our Liturgy, were forbid<g ref="char:EOLhyphen"/>den to Proteſtants only by Statute-Law upon cer<g ref="char:EOLhyphen"/>tain Penalties; many cannot but think, that the Act which takes away thoſe Penalties from Pro<g ref="char:EOLhyphen"/>teſtant
+<pb n="9" facs="tcp:40481:4"/>Aſſemblies, makes thoſe Aſſemblies lawful. And if it be a Sin for them ſtill to aſſemble toge<g ref="char:EOLhyphen"/>ther, though the Penalties are aboliſhd'd the amo<g ref="char:EOLhyphen"/>ving of them would but lead Men into Temptation:
+<note place="margin">
+                  <hi>Page</hi> 27.</note> and the Statute become a <hi>Legal Snare</hi> in lieu of the <hi>Illegal one.</hi>
+            </p>
+            <p>I rememember the time when Clergy-Men thought it their Intereſt to maintain that the Sanction of a meer poſitive Law lies in the Penalty.
+<note place="margin">
+                  <hi>Vid. Grand Queſtion concerning the Biſhops voting in Caſes Capital,</hi> Pag. 68. <hi>The Sanction of the Law is ceas'd which was irregularity,</hi> Pag. 69. <hi>If the irregu<g ref="char:EOLhyphen"/>larity be taken away, the Sanction is gone. And if the Sanction be taken off in a meer poſi<g ref="char:EOLhyphen"/>tior Law, the force of the Law is gone too. And therefore this Ca<g ref="char:EOLhyphen"/>non Law which for<g ref="char:EOLhyphen"/>bids Clergy-Men being preſent in Capital-Ca<g ref="char:EOLhyphen"/>ſes and giving Votes therein, is wholly taken away by the Reforma<g ref="char:EOLhyphen"/>tion.</hi>
+               </note> Wherefore ſome would ask what now becomes of the Laws about Con<g ref="char:EOLhyphen"/>formity, the Penalties being taken away? Though I muſt own the late Act to be penn'd with abundant Caution, to prevent the Ca<g ref="char:EOLhyphen"/>vils of a nice ſort of Men; yet it ſpeaks of <hi>ſeparate Aſſemblies for Religious Worſhip per<g ref="char:EOLhyphen"/>mitted or allowed by it.</hi> And gives ſuch en<g ref="char:EOLhyphen"/>couragement to them, as to exempt their Preachers from certain ſecular Employments, the better to attend to the Work of their Miniſtry. And tho God Almighty may permit or ſuffer Sin, as he does not neceſ<g ref="char:EOLhyphen"/>ſitate the avoiding it, yet he cannot be ſaid to allow it, (it being difficult to diſtinguiſh between allow<g ref="char:EOLhyphen"/>ing and approving) much leſs can he be thought to encourage it. Nor can that be thought a Sin, a<g ref="char:EOLhyphen"/>gainſt which he has denounced no Judgment, eſpeci<g ref="char:EOLhyphen"/>ally where he declares there ſhall be none. And if any thing became a Sin by humane Law, if that declare there ſhall be no Penalty, one would take it to be a virtual declaring, that it ceaſes to be a Sin; unleſs we can imagine that the Law which frees the Body, would enſnare the Mind. Nay, the Doctor ſeems to forget that he had called the late Act,
+<note place="margin">
+                  <hi>Page</hi> 27.</note> 
+               <hi>an Indulgence granted the Diſſenters,</hi> in the Page immediately before
+<pb n="10" facs="tcp:40481:5"/>his Aſſertion, that the <hi>Laws do not undertake to juſtify the Thing</hi> he was then ſpeaking of, which was the <hi>Li<g ref="char:EOLhyphen"/>berty of Conſcience</hi> which they give, <hi>as if it were no Sin:</hi> Which ſurely is a palpable Reflection that the Laws give indulgence to Sin.</p>
+            <p>But in charging this Sin of Schiſm, the Doctor here muſt needs go upon the Suppoſition that the Terms of Communion with the Church of <hi>England</hi> are enjoyned by <hi>Chriſt</hi>'s <hi>immutable Law:</hi> Upon which I dare ſay the Diſſenters will readily join Iſſue. Nor do they belive that Chriſt has made any Law for <hi>England</hi> but what he has made for all Mankind.</p>
+            <p>Yet the Doctor thinks he had proved them guilty from the Notion of Schiſm:
+<note place="margin">
+                  <hi>Page</hi> 18.</note> it being, as he ſays, <hi>the ſtrict and proper Notion of Schiſm for Perſons cauſleſly to rend themſelves from the particular Church whereof</hi> de jure <hi>they are Members.</hi>
+            </p>
+            <p>If it be cauſleſly in the Judgment of the Party that divides, it were ſomething: But according to him, the Proteſtant Diſſenters who divide <hi>upon Diſſatis<g ref="char:EOLhyphen"/>faction,</hi> notwithſtanding ſuch real <hi>Diſſatisfaction,</hi> without any thing of <hi>Malice</hi> or <hi>Hypocriſy,</hi> are <hi>Schiſma<g ref="char:EOLhyphen"/>ticks:</hi> For he will have their Diviſion to be <hi>cauſleſs</hi> in it ſelf. For ſuch to ſay they agree in <hi>Doctrinals, it is only upon account of Ceremonies that they ſeparate,
+<note place="margin">
+                     <hi>Vid.</hi> Dr. Bring<g ref="char:EOLhyphen"/>hurſt's <hi>Sermon be<g ref="char:EOLhyphen"/>fore the</hi> Ld. Mayor, May 26. 1689. <hi>The ſpirituality of God's Worſhip under the Goſpel being a neceſſary qua<g ref="char:EOLhyphen"/>lification of it; ſome Men</hi> may poſſibly ſcruple without any Malice or ill Deſign, <hi>ſome Rites or <g ref="char:V">Ʋ</g>ſages in the Worſhip of God as being contrary to its Spirituality. Nothing but Order and De<g ref="char:EOLhyphen"/>cency may be deſigned by them, or ſome external Ornaments for the Service of God, and by a fair and rational Interpretation, they may be ſo uſ'd without being impediments to the purity and ſpi<g ref="char:EOLhyphen"/>rituality of Divine Worſhip; yet ſeeing all Men cannot have the ſame ſenſe of theſe things, and ſeeing what a Man ſcruples, he can never be edified by it, we are to conſider the infirmities of our Brethren, for</hi> Order and Decency here is beſt, when they are in ſubſervency to Edification.</note> ſeemeth</hi> (ſays he) <hi>ſo far from excuſing the Thing, it really maketh it worſe.</hi>
+            </p>
+            <pb n="11" facs="tcp:40481:5"/>
+            <p>But ſince Men are not apt to make due Allowances for humane Infirmities, till the Caſe comes to be their own; it may not be amiſs to put it ſo, as may affect ſome of our preſent Clergy. For them to rend themſelves from their People, and to intermit or wholly leave off their Miniſtry cauſleſly, muſt needs be as Schiſmatical, and as great a Breach of the Political Union, as for the People cauſleſly to ſe<g ref="char:EOLhyphen"/>parate from them. But we ſay, and are ready to prove, that they who are ſuſpended, or may be de<g ref="char:EOLhyphen"/>priv'd for refuſing to take the Oath of Allegiance to King <hi>William</hi> and Queen <hi>Mary,</hi> cauſleſsly rend themſelves from their People. If they ſay that they really ſcruple, Why ſhould cauſleſs Scruples excuſe them from Schiſm, and not the more ignorant Lai<g ref="char:EOLhyphen"/>ty? If it is ſo far from excuſing the laſt, that it makes it worſe that they ſcruple not upon account of Doctri<g ref="char:EOLhyphen"/>nals, the ſame will return upon them, whoſe Scruples are founded upon a ſuppoſed knowledg of humane Law, in which they are evidently miſtaken. And herein the Point turns the ſtronger upon them, that whereas the Law with great Equity gives Indul<g ref="char:EOLhyphen"/>gence to Conſciences ſcrupulous about Religious Worſhip, and doubtful of the Power of humane Laws concerning it: the Law neither does nor can without Injury to the Publique give Indulgence to them, who, unleſs they give reaſonable Aſſurance of Fidelity, are to be look'd upon as of a contrary Alle<g ref="char:EOLhyphen"/>giance; and ſo no Friends to the Power which pro<g ref="char:EOLhyphen"/>tects them. And this is the rather to be believed, be<g ref="char:EOLhyphen"/>cauſe no Man who will take any promiſory Oath, can ſcruple ſwearing Allegiance now, but upon Suppoſi<g ref="char:EOLhyphen"/>tion that the ſubject matter of his former Oath re<g ref="char:EOLhyphen"/>mains, and the late King ſtill continues his Leige
+<pb n="12" facs="tcp:40481:6"/>Lord, according to the Laws of the Engliſh Go<g ref="char:EOLhyphen"/>vernment. For Allegiance muſt follow the Law; it being nothing more than the Fidelity and Obedi<g ref="char:EOLhyphen"/>ence which the Law requires. Were it more, we ſhould ſwear our ſelves Slaves, and the King Abſo<g ref="char:EOLhyphen"/>lute.</p>
+            <p>Though in relation to a future State, it may be too ſevere to charge all Men of Underſtanding with the immediate and obvious Conſequences of what they hold; many being better than their Principles: Yet it may be as needful for Civil Governments to judg accordingly, as to preferve themſelves. But as poor Diſſenters are ſuppofed to be ſhut out of God's Church, and depriv'd of all the ordinary means of Salvation, becauſe of their Miſtakes; 'tis requiſite thus to turn the Queſtion upon them who caſt the firſt Stone.</p>
+            <p>And ſome will be ready to ſuggeſt, that Obſtinacy, Vanity to be at the Head of a Party, an Expectation of being conſiderable enough to be bought off, too great Pride to acknowledg an Error, or the like, are more truely Ingredients in the Clerical Schiſm, than Malice or Hypocriſy in that which the Laity are aſpers'd with.</p>
+            <p>But to return to our Doctor. He had own'd that <hi>Chriſt's Myſtical Body is an Aggregation or Collection of all throughout the Face of the Earth who embrace the Faith he hath delivered.</hi> From St. <hi>Auſtin</hi> he tells us, <hi>Schiſmaticks are not to be look'd upon as Chriſtians.</hi>
+            </p>
+            <p>And yet they who agree in the ſame Faith, and ſeparate, or are driven or kept out only upon the ac<g ref="char:EOLhyphen"/>count of Ceremonies, nor are charg'd with want of Charity, are <hi>Schiſmaticks</hi> with him: and that though many of them were bred up under other Paſtors,
+<pb n="13" facs="tcp:40481:6"/>and cannot be faid to have rent themſelves from the Church of <hi>England.</hi>
+            </p>
+            <p>This indeed muſt be ſaid for him, that though St. <hi>Auſtin,</hi> and other antient Fathers, make no Degrees of Schiſm, and knew of none, but in ſuch as divide out of Malice or Hypocriſy, or at leaſt from ſuch terms as Chriſt required: Our Doctor makes Degrees of <hi>Schiſm</hi> without Authority from the Apoſtles, or the Fathers. He tells us, ſome are greater <hi>Schiſmaticks</hi> than others; yet the leaſt are guilty of the Sin of <hi>Schiſm.</hi> And ſo perhaps we may find a <hi>Schiſm</hi> which is not a Rent from God's Church, nor a Breach of Charity among Chriſtians: And then I would gladly know how the Nature of <hi>Schiſm</hi> re<g ref="char:EOLhyphen"/>mains?</p>
+            <p>And indeed it is evident that as he applies the Name of <hi>Schiſmaticks</hi> to them <hi>who embrace the Faith Chriſt has deliver'd;</hi> and whom he cannot in general charge with dividing from other Chriſtians out of Hypocrify or Malice: he imputes Schiſm to them who certainly remain true Members of God's Church, and maintain that Bond which unites them to their Fellow-Chriſtians.</p>
+            <p>Yet notwithſtanding all the ſeeming Softnings, 'tis plain the Doctor will not allow ſuch to be true Members of God's Church: For, he ſays, to be a <hi>Member of the Catholick, 'tis neceſſary to be of ſome particular Church.</hi> Nor can it be deny'd that he charges the Proteſtant Diſſenters with failure of what is neceſſary to being of the Catholick Church. And though in the Choice of Churches he reſtrains it to ſuch as God may be acceptably ſerved in: Yet I ſhall foon ſhew he makes it abſolutely neceſſary to be of ſome viſible Church, and therein agrees with the
+<pb n="14" facs="tcp:40481:7"/>Papiſts; and differs only, in that he will have the Church of <hi>England</hi> ſo called, that is, they who are united under the ſame Eccleſiaſtical Polity, to be the Church. Yet ſome would think that as <hi>Chriſt's myſtical Body,</hi> or Church Univerſal, is <hi>a Collection of all throughout the Face of the Earth, who embrace the Faith Chriſt has delivered:</hi> Wherein, according to this Doctor himſelf, Viſibility is by no means eſſen<g ref="char:EOLhyphen"/>tial to the being of the Church-Univerſal, (for em<g ref="char:EOLhyphen"/>bracing the Faith is a pure Act of the Mind) ſo the Church of <hi>England,</hi> as it is a part of the whole, is a Col<g ref="char:EOLhyphen"/>lection of them who embrace that Faith in <hi>England.</hi> Every part muſt be in ſome place: but it would not ceaſe to be a part if there were no other part upon the place to join with. And therefore a ſingle Perſon may make as true a part of Chriſt's Body, as the greateſt Numbers.</p>
+            <p>But examine the ground for the Imputation of <hi>Schiſm</hi> upon our Proteſtant Diſſenters,
+<note place="margin">
+                  <hi>Page</hi> 18.</note> becauſe they <hi>cauſleſsly divide or rend themſelves from that Church of which</hi> de jure <hi>they are Members.</hi>
+               <note place="margin">
+                  <hi>Page</hi> 16.</note> This he had ex<g ref="char:EOLhyphen"/>plained before, where he ſays, <hi>that I call every Mans particular Church, not which it may be he himſelf doth call ſo, but which the lawful Authority of the Country where he liveth hath made ſo.</hi>
+            </p>
+            <p>Now I would gladly know by what Law Diſſen<g ref="char:EOLhyphen"/>ters are ſtill obliged to comform to the Ceremonies of our Church, and in that reſpect to become Mem<g ref="char:EOLhyphen"/>bers? Is it becauſe the Law leaves others the Poſſeſſi<g ref="char:EOLhyphen"/>on of the material Churches made with Hands?
+<note place="margin">
+                  <hi>Page</hi> 18.</note> This indeed I think he offers at, when he tells us <hi>how they under whoſe ſpiritual Conduct ſuch Perſons put themſelves, can ſatisfy their own Minds, he knows not</hi>
+            </p>
+            <pb n="15" facs="tcp:40481:7"/>
+            <p>But I ſhould think they might ſay, Are Ye Miniſters of the Goſpel? So are We. Are Ye to take care of the Flock over which Chriſt hath made you Overſeers? So are We. Nay, what if they ſhould ſay, Your Biſhops look over the Clergy and not the Flock:
+<note place="margin">
+                  <hi>Vid. The Prayer in the Lyturgy for</hi> Biſhops and Curates; <hi>and at the Conſecration of Biſhops:</hi> Biſhops the Paſtors of the Church.</note> Your inferior Clergy are not Paſtors, but Curates to the Biſhops: Wherefore we are ready to enter upon the Trial, which of us are moſt properly Paſtors of Chriſt's Inſtitution.
+<note place="margin">Vid. The ſame Proteſtant Principles.</note>
+            </p>
+            <p>Or what if they ſhould ſay farther, Your Biſhops Lord it over the Flock, and contrary to the Apoſto<g ref="char:EOLhyphen"/>lick Example, and the antient uſage in <hi>England,</hi> claim a Power of making <hi>Laws, Canons, and Conſtitu<g ref="char:EOLhyphen"/>ons in the Church</hi> without the Laity;
+<note place="margin">
+                  <hi>Vid. Spelm Council</hi> de modo tenendi Synodos apud An<g ref="char:EOLhyphen"/>glos.</note> with this only difference among them, that ſome place the Power in every ſingle Biſhop, and ſo far are <hi>Independants;</hi> others in the <hi>Epiſcopal Col<g ref="char:EOLhyphen"/>ledg,</hi>
+               <note place="margin">Vid. Proteſtant Principles Licens'd.</note> or Aſſembly of all the Biſhops in a King<g ref="char:EOLhyphen"/>dom: The laſt of which I think is moſt agree<g ref="char:EOLhyphen"/>able to their Notion who are only for a Nati<g ref="char:EOLhyphen"/>onal Church:
+<note place="margin">Vid. Proteſtant Principles</note> the others ſeem not aware, that, according to them, every diſtinct Dioceſs makes a Church. And if it ſhould fall out that the primitive Dioceſſes were but ſingle Aſſemblies of them who worſhip'd God in the ſame place with <hi>one Heart and one Mind,</hi>
+               <note place="margin">Vid. Clack<g ref="char:EOLhyphen"/>ſon's Primi<g ref="char:EOLhyphen"/>tive Epiſco<g ref="char:EOLhyphen"/>pacy.</note> though with dif<g ref="char:EOLhyphen"/>ferent Poſtures, then every Proteſtant Congregation may chance to put in for as compleat a Church as any: and others may be as great <hi>Schiſmaticks</hi> in re<g ref="char:EOLhyphen"/>fuſing to Communicate with them, as they for not Communicating with others.</p>
+            <pb n="16" facs="tcp:40481:8"/>
+            <p>The Doctor indeed, ſpeaking of the Diſſenting Mi<g ref="char:EOLhyphen"/>niſters receiving thoſe whom he takes <hi>de jure</hi> to be Members of the <hi>Church of England,</hi>
+               <note place="margin">
+                  <p>Pag. 18. <hi>They under whoſe ſpiritual Con<g ref="char:EOLhyphen"/>duct ſuch Perſons put themſelves.</hi>
+                  </p>
+                  <p>
+                     <hi>Na be no where takes the Miniſters for Brethren.</hi>
+                  </p>
+               </note> ſays, <hi>How oppoſite ſoever they may be to the Pope in other matters, in this his <g ref="char:V">Ʋ</g>ſurpation they agree with him, and can no more be juſtify'd in it than he.</hi>
+            </p>
+            <p>And thus in the Spirit of Meekneſs and with many gentle ſtroakings to the Laity, the Preachers are call'd Uſurpers, the hearers Schiſmaticks.</p>
+            <p>For my part, waving the Queſtion about a com<g ref="char:EOLhyphen"/>pleat Paſtor, and the due Government of the Church, I ſhould rather fear that the Charge of Schiſm might be retorted upon them, whoever they are, who ſo far uſurp upon Chriſt's Office, as to make more or other Terms of Communion than Chriſt hath made. And whoſoever inſiſt upon Conformity to other Terms, I ſhould think to be real <hi>Schiſmaticks,</hi> how<g ref="char:EOLhyphen"/>much ſoever others ſuffer under the Name.</p>
+            <p>Sure I am Schiſm lies in ſomething elſe beſides cauſleſs Separation from external Communion: for other wiſe the Apoſtle would never have charg'd it upon them who continued in the ſame external Communion; as did the <hi>Corinthians,</hi> to whom alone he appli'd the word. If the Apoſtle applied this to them who continued the ſame external Communion, and never to them who divided or ſeparated from ſuch Communion;
+<note place="margin">
+                  <hi>Vid.</hi> 1 Cor. 12.25. <hi>that there ſhould be no</hi> Schiſm <hi>in the Body, but that the Members ſhould have the</hi> ſame care <hi>one for another.</hi>
+               </note> 'tis evident <hi>Schiſm</hi> does not lie in Separation from external Communion, though there may be <hi>Schiſm</hi> in the Separation. I take it not to lie ſo much in divided Communions, as the un<g ref="char:EOLhyphen"/>charitableneſs of them on either ſide.</p>
+            <p>As Schiſm is a Rent, we ſhall never know what ſort of Rent is Schiſm, till we ſettle the bond of Uni<g ref="char:EOLhyphen"/>on,
+<pb n="17" facs="tcp:40481:8"/>which I ſhould think to be Charity: For they who are united in the ſame Faith and external Com<g ref="char:EOLhyphen"/>munion, may be guilty of Schiſm, both in Relation to others, and among themſelves; which they who maintain that perfect bond of Charity cannot be, in either Reſpect.</p>
+            <p>But evident it is that the Papiſts, and others from them, have taken up a Notion of <hi>Schiſm</hi> which the Apoſtle never mentioned. And, according to this Doctor himſelf, was never intended by St. <hi>Auſtin,</hi> or other antient Fathers. And if the Livings will not ſatisfy our <hi>Pluraliſts,</hi> unleſs the Non-conformiſts be expoſed, as the Chriſtians of old, in the skins of wild Beaſts, to be hunted down, they will find their Congregations thinner than yet they are: for it is not to be thought that the Laity in general will Countenance this Uncharitableneſs, and Communi<g ref="char:EOLhyphen"/>cate with them in this real <hi>Schiſm.</hi> But let them not any longer hang up that <hi>Theological Scarecrow Schiſm,</hi> till their Church, or rather aggregation of Churches,
+<note place="margin">
+                  <hi>Vid. Gal.</hi> 1.2. <hi>unto the</hi> Churches <hi>of</hi> Galatia.</note> is wide enough to comprehend all Chriſtians. But till it is ſo, why may it not be enough for us here, to do as he ſhews to be our Duty in Relation to other Chriſtian Churches abroad, <hi>mutually to own and Acknowledg every one the other,
+<note place="margin">
+                     <hi>Page</hi> 26.</note> as far as they own and acknowledg Chriſt.</hi>
+            </p>
+            <p>
+               <q rend="margQuotes">Indeed he ſays,
+<note place="margin">Ibid.</note> 
+                  <hi>Inaſmuch as to be a Member of the Catholick Church it is neceſſary to be of ſome particular Church: if he may acceptably ſerve God, and finally ſave his Soul in it,</hi> every Perſon ought for Peace and Order ſake to live in Communion of that Church, where the Providence of God hath plac'd him, and not for every Diſlike, Defect, or Blemiſh, to depart from it.</q>
+            </p>
+            <pb n="18" facs="tcp:40481:9"/>
+            <p>Here he manifeſtly ſpeaks of a viſible Church, to which Men muſt outwardly conform for Peace and Order. This he owns that Men are not oblig'd to conform to, unleſs they may <hi>acceptably ſerve God</hi> in it. Yet without obſerving that, it is poſſible for the Church, where the Providence of God has plac'd a Man, to be ſuch an one, as God cannot be acceptably ſerved in it. (Though indeed this is implyed in the <hi>if it may,</hi> for as it may be, it may not be) He makes the being a Member of a Particular Church neceſſary to being of the Catholick, and by Conſequence, to Salvation. And yet it is a very great Queſtion how a Man can <hi>ſerve God acceptably</hi> in any Church, which he believes has ſuch <hi>Defects</hi> or <hi>Blemiſhes,</hi> as juſtify his Separation for the ſake of a Communion with fewer <hi>Defects,</hi> or <hi>Blemiſhes.</hi> And I know not what can hinder ſuch a Communion from making a viſible Church wherein he may <hi>ſerve God acceptably.</hi> Or why the external Peace and Order in a Church, for all to move together like a piece of Clock-work, ſhould be perferr'd before his ſpiritual Advantages. And now the Law allows a Liberty, ſome will think that they who leave the Parochial Worſhip for the ſake of another Religious Meeting, are no more <hi>Schiſ<g ref="char:EOLhyphen"/>maticks,</hi> than they who refuſe to Communicate in the Cathedrals, for the ſake of Parochial Worſhip with fewer Ceremonies.</p>
+            <p>But ſuppoſe all Churches or Communions viſible, ſhould impoſe Terms which a Man conſcientiouſly ſeruples: What hinders but the ſame <hi>Lord,</hi> the ſame <hi>Faith,</hi> the ſame <hi>Baptiſm,</hi> with a readineſs, as far as he has <hi>attained,</hi> to walk by the ſame Rule with all Chriſtians, may rather make him a Member of Chriſt's Family both here and in Heaven, than that his ſcruples in other matters, wherein he has not at<g ref="char:EOLhyphen"/>tained
+<pb n="19" facs="tcp:40481:9"/>to the Sentiments of Men of larger Capacities and Opportunities, ſhould ſhut himout, and leave him <hi>extra Eccleſiam forâs.</hi>
+            </p>
+            <p>Thus I have ſet thoſe Notions in their proper Light, which are ſuch <hi>means</hi> to <hi>remedy</hi> our <hi>Differen<g ref="char:EOLhyphen"/>ces,</hi>
+               <note place="margin">
+                  <hi>Vid. pag.</hi> 14.</note> as <hi>Procruſtes</hi> his bed for the different lengths of Mens bodies.</p>
+            <p>And methinks this <hi>Procruſtian</hi> humour is prety evident, where he vindicates the vein of Creed<g ref="char:EOLhyphen"/>making, while he condemns the Church of <hi>Rome</hi> for her uncharitableneſs in damning all that come not punctually up to her Tenents: which though himſelf does not directly, it will appear that he, by a Conſequence of his own, damns all them, who do not in matters of belief comply with the Church where they live, when that Church is ſuch an one as he ſuppoſes, a Man may <hi>ſerve God acceptably, and fi<g ref="char:EOLhyphen"/>nally ſave his Soul in it.</hi>
+            </p>
+            <p>
+               <q rend="margQuotes">So far, ſays he, was the ancient Church from it,
+<note place="margin">
+                     <hi>Page</hi> 9.</note> that all the <hi>Credenda</hi> ſhe requir'd of them ſhe <hi>admitted to her Communion,</hi> for ſome ages, was <hi>only an Ac<g ref="char:EOLhyphen"/>knowledgment of the Articles of the Creed we call the A<g ref="char:EOLhyphen"/>poſtles,</hi> and preſt no more on them; and though <hi>all Churches ſince have added others</hi> ſome more ſome leſs; it appeareth by their not judging one another a<g ref="char:EOLhyphen"/>bout receiving or not receiving them, this is not ſo much from any Opinion they have of the <hi>abſolute Neceſſity of holding thoſe Articles,</hi> as of <hi>the abſolute Ne<g ref="char:EOLhyphen"/>ceſſity of preſerving Peace among their own Members,</hi> who were like to make Diſturbances about them.</q>
+            </p>
+            <p>Wherein there is couch't this excellent Paradox, that <hi>it is abſolutely neceſſary for the Peace of ſome particu<g ref="char:EOLhyphen"/>lar Churches, that, before Men be admitted into Commu<g ref="char:EOLhyphen"/>nion, they ſhould receive ſome Articles of belief which are not of <g ref="char:V">Ʋ</g>niverſal Obligation, and by confequence are more
+<pb n="20" facs="tcp:40481:10"/>than Chriſt or his Apoſtles required.</hi>
+            </p>
+            <p>So that it ſeems Men are to be deprived of Church-Communion, for matters of Belief enjoyn'd by meer humane Authority, and ſome who talk high for Catholick-Communion, themſelves ſhut the doors againſt it.</p>
+            <p>It is needful to be a Chriſtian, but it would cer<g ref="char:EOLhyphen"/>tainly be much better for Mankind, than it is, if they would be ſo wiſe to take neither ſide, while Church-men play their Prizes.</p>
+            <p>Few that are not wedded to a Party, and think it needful to make Peace by the Deſtruction of all but their own Faction, can believe that new Impoſi<g ref="char:EOLhyphen"/>tions, eſpecially in matters of Belief, are any other than the occaſions of Differences, and the Shiboleths which divide the Chriſtian World: Nor can they comprehend why any thing ſhould be needful to bé believed in one Church, which is not in every Church.</p>
+            <p>It may often be requiſite, for Peace ſake, to Pro<g ref="char:EOLhyphen"/>vide that no Man hold publickly any thing con<g ref="char:EOLhyphen"/>trary to a received form of Words; but whoever im<g ref="char:EOLhyphen"/>poſe them as terms of Communion, ought to pro<g ref="char:EOLhyphen"/>duce a Warrant from Divine Authority.</p>
+            <p>To be of the Catholick Church is neceſſary to Sal<g ref="char:EOLhyphen"/>vation, and if, as Men of the Doctors Sentiments contend, no Man can be of the Catholick, who is not of the particular Church where he lives, if that be a true Church, or ſuch an one in which he may ſerve God acceptably, and finally ſave his Soul; Then ſuch a Church, requiring other Articles of Be<g ref="char:EOLhyphen"/>lief, or in other words than Chriſt or his Apoſtles required, makes thoſe Articles neceſſary to Salvation: and if they who are ſhut out of one true Church, ought not to be admitted into any other, without
+<pb n="21" facs="tcp:40481:10"/>
+               <hi>Letters Commendatory from the Church,</hi> of which he had been, or <hi>de jure</hi> was a Member; then at leaſt there may be a total Excluſion from the Catholick Church for ſuch terms as Chriſt or his Apoſtles never required: and thus Men may become Schiſmaticks for <hi>Doctrinals</hi> as well as Ceremonies, which they ho<g ref="char:EOLhyphen"/>neſtly ſcruple. They who hold this, would do well to preach up St. <hi>Zavierus</hi> his new Goſpel,
+<note place="margin">
+                  <hi>Vid. Dr.</hi> Stilling<g ref="char:EOLhyphen"/>fleets <hi>Fa<g ref="char:EOLhyphen"/>naticiſm of the Church of</hi> Rome.</note> invented with the like pious Intention: But when they talk of theſe things for the Peace of the Church, I cannot but apply the old obſervation, <hi>ſolitudinem faeiunt, &amp; pacem vocant:</hi> but for certain, how merciful ſoever <hi>God Almighty</hi> may be hereafter; you muſt believe as the Church where you live believes, if you would have Peace here.</p>
+            <p>But if there ought to be a Catholick Communion on Earth, and they who are deprived of one Churches Communion, ought to be of all; this ſhews how ne<g ref="char:EOLhyphen"/>ceſſary it is that Communion ſhould be upon terms truly Catholick.</p>
+            <p>The contrary to the other Notion ſhines methinks with native Light, in an excellent Diſcourſe of my learned Friend, Dr. <hi>Bringhurſt,</hi> who adorned his Doctrine, by a ſteady Adherence to it in the worſt of times.</p>
+            <q rend="margQuotes">
+               <p>We, ſays he,
+<note place="margin">
+                     <hi>Vid. Dr.</hi> Bring<g ref="char:EOLhyphen"/>hurſts <hi>Ser<g ref="char:EOLhyphen"/>mon before the Lord Mayor, May</hi> 26, 1689. <hi>Page</hi> 24.</note> make this Yoke and Burden un<g ref="char:EOLhyphen"/>eaſier than Chriſt has made it to one another, when we impoſe, as neceſſary Articles of our Faith, either what it is certain our Saviour and his Apo<g ref="char:EOLhyphen"/>ſties never impoſed, or uncertain whether they did or no.</p>
+               <p>Articles of Faith neceſſary to Salvation can de<g ref="char:EOLhyphen"/>rive Authority from none but God; he only can tell us what will be acceptable to himſelf, ſo that the Scriptures only of the Old and New Teſtament (by
+<pb n="22" facs="tcp:40481:11"/>all Proteſtants,) being the Revelation that God hath given of his Will in this caſe to us; Whatever is made neceſſary that is not here, muſt be a very un<g ref="char:EOLhyphen"/>eaſy Yoke and heavy Burden: for 'tis not in a Mans Power to believe as Men would have him; we cannot believe beyond our Evidence; and our Evidence muſt be as we can underſtand it; ſo that what is neceſſary muſt be ſuppoſed to be intelligibly revealed to all concerned in the Belief of it.
+<note place="margin">
+                     <hi>Vid. P.</hi> 8. <hi>Wherever the Scrip<g ref="char:EOLhyphen"/>ture it ſelf does imprint a Character of neceſſity either for Faith or Practice, we cannot ſpeak plainer to one another than that doth to us: And if any thing be revealed which we cannot comprehend, as for Inſtance, the Article of the Trinity, yet the Revelation is plain; and in all matters of Revelation we are to believe no more than is revealed, and no otherwiſe of it, than as it is revealed;</hi> &amp;c.</note>
+               </p>
+               <p>This hath often made me think that we ſhould be eaſier to one another, were the Articles of our Faith given us in the very words of the Scripture. I am ſure that both the <hi>Orthodox</hi> and the <hi>Arians</hi> in the Council of <hi>Nice</hi> concurred in this; that <hi>all the Miſchiefs in the Church of God were cauſed by bringing in words into the Creeds of the Church, which were not in the Scriptures.</hi> Conſequences in<g ref="char:EOLhyphen"/>deed are as ſure as the expreſs terms of the Scrip<g ref="char:EOLhyphen"/>tures, but Infallibility in theſe Conſequences, ſeems to be neceſſary for Articles of Faith, becauſe infal<g ref="char:EOLhyphen"/>lible Authority only can create them. <hi>Certainty may ſatisfy a Man's Conſcience for his own ſenſe and Compliance, but for terms of Communion that may not be ſufficient,</hi> becauſe that is ſo according to Mens different Capacities and Apprehenſions, <hi>&amp;c. We are to believe no more than the Word of God declares to us, and alſo as it declares it;</hi> and if we deſire more of one another, we make Chriſt's Yoke more uneaſy, and his Burden heavier than he hath made it.</p>
+            </q>
+            <pb n="23" facs="tcp:40481:11"/>
+            <p>As all Men are preſumed to have ſome end in what they do, unleſs where they act in paſſion without Conſideration: It were worth enquiring to what end this Sermon (which, for the ſake of my Country, I cannot but diſrobe) was preach dat this time? Was it to convince the Diſſenters? Then ſince he could not expect that ſuch ſhould be his Hearers, it muſt have been preach'd to be printed. Which may take off Mens Surprize at ſuch a Command, more likely to be obtained, than given <hi>ex mero motu:</hi> Unleſs it ſhould proceed from Diſlike, and be intended, as it has proved, a gentle enjoyning of publick Penance: which all muſt agree to be ſuitable to his Majeſties great Judgment and Clemency. However there was ſmall reaſon to believe, that they were thus to be brought over now, who perſiſted in their Diſſent, when they could not ſerve God in publick without being made Rioters: And to be a Diffenter, was counted not only a <hi>Dividing from God's Church,</hi> but the being of a Faction againſt the <hi>State.</hi> And in all reſpects both themſelves, and all who wiſh'd well to them, ſuffered accordingly.</p>
+            <p>Was it to induce his Majeſty to withdraw his Protection and Favour from ſuch; as being ſhut out from God's care, and not worthy of his Majeſties? But ſurely 'tis not to be ſuppoſed that his Majeſty, who had reaſon to believe that he <hi>ſerv'd God accep<g ref="char:EOLhyphen"/>tably in</hi> Holland, where there was no <hi>National Church,</hi> ſhould be perſwaded of the Neceſſity of being a Member of ſuch a particular Church, that one may be a <hi>Member of the Catholick.</hi> Was it to raiſe a Contempt of the Proteſtant Diſſenters in the Generality of the Hearers; and thence to animate a party for the Church? This may with better ground be look'd on as the encouraging a Faction againſt the
+<pb n="24" facs="tcp:40481:12"/>State, at a time when the Union of Proteſtants is little leſs than eſſential to its being.</p>
+            <p>Whoever goes to make the King, a King of one party of Proteſtants, under a pretence of advancing the Intereſt of the Church of <hi>England,</hi> would cer<g ref="char:EOLhyphen"/>tainly have a Reward according to his Merit, if the late King ſhould be the Advantages ſuch put into his Hands, come again to be its <hi>Defender.</hi>
+            </p>
+            <p>Such muſt underſtand, that though the greater part of the Nation have fewer Scruples than the Diſſen<g ref="char:EOLhyphen"/>ters have; yet, as they are united with them in the ſame Profeſſion of Faith, and Affection to the preſent Government; they cannot but deſire to live with them as Men who muſt ſtand or fall by the ſame common Intereſt.</p>
+            <p>And if they who are otherwiſe minded are not guilty of making a <hi>Schiſm</hi> in the State, I am ſure they who refuſe to ſwear Allegiance to King <hi>William</hi> and Queen <hi>Mary,</hi> are. And this more truly anſwers the <hi>Apoſtles</hi> Notion of <hi>Schiſm,</hi> than that which Cler<g ref="char:EOLhyphen"/>gy-men have taken up to keep together a Party, which, if they give the Word, may be, and often have been, troubleſome to Civil Governments. Un<g ref="char:EOLhyphen"/>reaſonable Quarrels, and Strifes, proceeding from Pride, and carnal Conſiderations, are the moſt truly <hi>Schiſmatical.</hi> And why the Diſſenters may not be even with many of them in returning the Cenſure, I ſee no reaſon. Sure I am, they have had more ten<g ref="char:EOLhyphen"/>der Uſage than the <hi>Diſſenters</hi> had. Their Conſci<g ref="char:EOLhyphen"/>ences were to be admitted to labour with Qualms for many Months: In which time a great Judgment might be made, which ſide would be uppermoſt. Whereas the poor Diſſenters muſt in an inſtant be reſolved of all their Scruples, or yield to a ſpeedy De<g ref="char:EOLhyphen"/>privation, without any intermediate Suſpenſion, to
+<pb n="25" facs="tcp:40481:12"/>bring them to conſider, by feeling a temporary loſs.</p>
+            <p>Some may think this an uncharitable Inſinuation; that the Clergy by their Friends preſt for ſo long time, till they might ſee which ſide would prevail. But beſides that the Points in queſtion might otherwiſe ſoon be determined one way or other: this can be no great doubt to them, who have heard how many were ſeized with ſuddain Scruples, upon the flying report of General <hi>Maccay</hi>'s being routed; or who conſider upon what Ground many of them have prayed for King <hi>William;</hi> which is barely as he is King <hi>de facto,</hi> as appears by their now declining to ſwear Allegi<g ref="char:EOLhyphen"/>ance to him.
+<note place="margin">
+                  <hi>Conſidera<g ref="char:EOLhyphen"/>tions for taking the Oath of Al<g ref="char:EOLhyphen"/>legiance. Page</hi> 53.</note> And of them who ſwear Allegi<g ref="char:EOLhyphen"/>ance, ſome at leaſt go upon the ſame Ground. Or if more, as his <hi>Title is allowed of by the Law, and con<g ref="char:EOLhyphen"/>ferr'd with thoſe Formalities of Law, and with thoſe uſual Ceremonies and Rites, which cuſtomarily are ob<g ref="char:EOLhyphen"/>ſero'd in the moſt regular Collation of Titles.</hi> Where<g ref="char:EOLhyphen"/>in that <hi>Clergy-Man</hi> who offers <hi>Conſiderations for taking the Oath of Allegiance,</hi> leaves a Surmiſe that our <hi>King</hi>'s Title may not have been <hi>according to the ſtrict Rules of Juſtice,</hi> as being <hi>obtained by due means, or conferred without Injuſtice or Injury done to any Perſon;</hi> which he diſtinguiſhes from a Title barely <hi>allowed of by the Law.</hi> Nay,
+<note place="margin">
+                  <hi>Page</hi> 46, &amp; 47.</note> he manifeſtly ſuppoſes that the late King is injured; he being <hi>God's Ordinance, the Mi<g ref="char:EOLhyphen"/>niſter of God for good,</hi> not to be reſiſted, and we bound to be ſubject to him, however he <hi>demeaned himſelf in the Exerciſe of the Government.</hi> And this he applies equally to <hi>wicked Magiſtrates,</hi> who act without regard to thoſe Bounds which the Law has ſet them. And <hi>even <g ref="char:V">Ʋ</g>ſurpers;</hi> that is, to Uſurpers both of Power and of Title, as long as they are in Poſſeſſion. But herein only is he unequal,
+<note place="margin">
+                  <hi>Page</hi> 50.</note> that whereas he tells us that <hi>though Princes exert Power
+<pb n="26" facs="tcp:40481:13"/>without due Title or Commiſſion from God:</hi>
+               <note place="margin">
+                  <hi>Page</hi> 56.</note> that is, are Uſurpers of <hi>Power, we are bound to ſuffer pati<g ref="char:EOLhyphen"/>ently, and be ſubject for Conſcience towards God,</hi> and cannot <hi>forceably reſiſt them without Peril of Damnati<g ref="char:EOLhyphen"/>on:</hi> Yet when he ſpeaks of a King <hi>de facto,</hi> coming in with uſual Formalities of Law, ſuppos'd by him to be an Uſurper of Title, he ſays <hi>that which we tranſlate Damnation,
+<note place="margin">
+                     <hi>Page</hi> 57.</note> is</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>that is, Judgment: And Treaſon againſt a King</hi> de facto <hi>is puniſhable by the Judgment of Death.</hi> This is <hi>Treaſon by our Law;</hi> and <hi>I do thus offend by levying War againſt the King for the time being, though in favour of a King</hi> de jure. <hi>It may be Judgment to reſiſt the King</hi> de facto, <hi>in favour of a King</hi> de jure, i. e. <hi>it may be an offence which by the Law may render me obnoxious to Judgment.</hi> And by Conſequence, a Man may rebel againſt the King <hi>de facto,</hi> whenever he has Opportunity or fair Proſpect of Impunity here, and may <hi>be ſubject for Wrath, but not for Conſcience ſake.</hi> In ſhort, if you reſiſt him, you ſhall be hang'd; if you reſiſt the other, you ſhall be damn'd.</p>
+            <p>Suppoſe then that the late King, encourag'd by them who believe him ſtill to continue King <hi>de jure,</hi> ſhould land here with <hi>French</hi> and <hi>Iriſh</hi> Forces, having their Commiſſions ſeal'd within the King<g ref="char:EOLhyphen"/>dom:
+<note place="margin">
+                  <hi>Page</hi> 34. <hi>Not the Pow<g ref="char:EOLhyphen"/>er in being while uncapa<g ref="char:EOLhyphen"/>ble by being out of Poſſeſ<g ref="char:EOLhyphen"/>ſion to exerciſe any Act be<g ref="char:EOLhyphen"/>longing to the Suppeam Power, So. Pa.</hi> 37.</note> according to this Doctrine, neither he, nor the Forces commiſſioned by him, are to be reſiſted: Nor is our King to ex<g ref="char:EOLhyphen"/>pect Aſſiſtance from ſuch Men in other Exigencies. Taxes indeed 'tis confeſt are to be paid as a Salary for his protecting them,
+<note place="margin">
+                  <hi>Page</hi> 56.</note> 
+               <hi>for this very cauſe that he attends continually upon the Govern<g ref="char:EOLhyphen"/>ment.</hi> Yet it may be a Queſtion whether they would not think that the others preſence might diſcharge or transfer the Taxes. But <hi>as for our Endeavours to keep
+<pb n="27" facs="tcp:40481:13"/>King</hi> William <hi>in his Station</hi> by our Arms, according to this Divine, <hi>It can only be ſo far our Duty, as it is lawful ſo to do;</hi> which is as much as to ſay, it is no Duty at all, but is left indifferent, whether you will exerciſe your lawful Power or no.
+<note place="margin">
+                  <hi>Page</hi> 56.</note>
+            </p>
+            <p>Nor, ſays he, <hi>Do I find St.</hi> Paul <hi>inculcating it as any part of our Subjection to the higher Powers.</hi>
+            </p>
+            <p>This goes upon the Notion of a certain Leading Man, who makes <hi>Non-Reſiſtance to be abſolute Sub<g ref="char:EOLhyphen"/>jection, and as much as can or ought to be required by the Soveraign Power:</hi> as if active Obedience to lawful Commands were not in the leaſt imply'd in being ſubject. But I take <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the Word which the <hi>Apoſtle</hi> uſes, chiefly to import Action in a regular Diſcharge of the Duties of an Inferiour to his Supe<g ref="char:EOLhyphen"/>our; and when St. <hi>Peter</hi> uſes the ſame Word in Re<g ref="char:EOLhyphen"/>lation to every <hi>humane Ordinance</hi> or <hi>Creature,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, I would gladly know whether 'tis meant of the Fountain and Derivation of Pow<g ref="char:EOLhyphen"/>er, or elſe of the Commands iſſuing from the Power? If the firſt, then the right of the <hi>late King</hi> was not,
+<note place="margin">
+                  <hi>Vid. Hiſto<g ref="char:EOLhyphen"/>ry of Paſ<g ref="char:EOLhyphen"/>ſive Obedi<g ref="char:EOLhyphen"/>ence. Page</hi> 106.</note> as ſome contend, ſuch as <hi>no Religion, no Law, no Fault or Forfeiture can alter or diminiſh:</hi> If the laſt, then active Obedience to lawful Commands is requi<g ref="char:EOLhyphen"/>red by the very Letter: but I cannot ſee how the ſame Text ſhould require paſſive Obedience to unlaw<g ref="char:EOLhyphen"/>ful Commands, any more than it does active; and whoever does not actively obey the lawful ones,
+<note place="margin">
+                  <hi>Page</hi> 59.</note> does as much reſiſt the Power, nay more than he who reſiſts a Perſon aſſuming a Power which ne<g ref="char:EOLhyphen"/>ver was given him by God or Man. He ſays far<g ref="char:EOLhyphen"/>ther, <hi>Nor doth our Law ſince the Ceſſation of the Te<g ref="char:EOLhyphen"/>nure of Knights Service, require it perſonally of all Subjects; at leaſt, we of the Clergy cannot be concern'd in it; becauſe we by ſo many Statutes are exempted from bearing Arms.</hi>
+            </p>
+            <pb n="28" facs="tcp:40481:14"/>
+            <p>Herein he ſhews that he talks out of his Profeſſi<g ref="char:EOLhyphen"/>on; for as to Perſonal Service, whatever might be requiſite in <hi>Grand Serjeanty,</hi> by which a Man is to be the <hi>King's Champion,</hi> or the like in his own Per<g ref="char:EOLhyphen"/>ſon; 'tis evident <hi>Knights Service</hi> was not perſonal; for otherwiſe it had been impoſſible for a Man who held ſeveral Knights Fees, to have diſcharged the Du<g ref="char:EOLhyphen"/>ty of his tenure.</p>
+            <p>Even where there was no Knight's Service anti<g ref="char:EOLhyphen"/>ently, and ſince its being taken away, all Men have been, and yet are oblig'd to provide Arms, and the Bodies of Men, either their own or others, for the De<g ref="char:EOLhyphen"/>fence of the Kingdom, according to their Eſtates real or perſonal. Nor have the Clergy any Exempti<g ref="char:EOLhyphen"/>on for this: Neither do the Acts eſtabliſhing a Mili<g ref="char:EOLhyphen"/>tia, diſcharge any Man from this, which is a Duty at Common Law; of which the <hi>Confeſſors</hi> Law, and the Statute of <hi>Wincheſter</hi> are declaratory.</p>
+            <p>But what ever Exemption Clergy-men have, it is becauſe of their Attendance in their Miniſterial Office; upon which account the diſſenting Miniſters have the like Exemption by the late Statute. What then if any of our Clergy decline ſwearing Allegi<g ref="char:EOLhyphen"/>ance till the time of Deprivation incurs? may and will they ſtill exerciſe their Function? If they may and will; why might not they as well who were turn'd out by the <hi>Bartholomew</hi> Act? If they may not or will not, what Exemption can they claim more than Lay-men? If they ſay ſtill their Character is indelible, Is no Duty annexed to the Character?</p>
+            <p>But is not this fine Doctrine to be inſinuated now; as if no Man were obliged to endeavour by Arms to keep our <hi>King</hi> in his <hi>Station?</hi> Or if other Men are, at leaſt not Clergy-men: But that if you reſiſt him by Arms, nothing but want of Succeſs can make it criminal?</p>
+            <pb n="29" facs="tcp:40481:14"/>
+            <p>Sure I am that egregious Pattern of Chriſtian for<g ref="char:EOLhyphen"/>titude Mr. <hi>Johnſon,</hi> on whom this Author reflects, was degraded by his Brethren, and delivered over to the ſecular ſcourge, for leſs than this.</p>
+            <p>When I conſider how earneſtly this Man preſſes taking the Oaths, I cannot but think of the Advice ſaid to be given by the late King to his Friends here, That as many of them as can ſhould get into Offices. And we may hence obſerve what is to be expected from thoſe <hi>Clergy-Men,</hi> who take the Oath of Allegi<g ref="char:EOLhyphen"/>ance with a Proteſtation, that they do it barely as to a King <hi>de facto:</hi> their Loyalty may vie with St. <hi>Beckets,</hi> who was for ſwearing to the King with a <hi>ſalvo jure</hi> to the Pope: whether ſuch ought to be ſuf<g ref="char:EOLhyphen"/>fer'd to ſpread their Doctrines with a Face of Autho<g ref="char:EOLhyphen"/>rity, and what Puniſhments they deſerve, who ac<g ref="char:EOLhyphen"/>cept of ſuch Proteſtations, I ſubmit to my Superiors. But ſure I am this will not be enough in Law to keep their Livings, unleſs they are favour'd by an undue entry upon Record.</p>
+            <p>Yet who can chuſe but wonder how from the ſame Text, a Clergy Man ſhould enforce the Obligation of ſubmitting to a Tyrant in the exerciſe of Power, upon pain of Damnation, and yet make the Penalty leſs in the caſe of reſiſting one, who is really <hi>God's ordi<g ref="char:EOLhyphen"/>nance, as</hi> he is a <hi>Miniſter of Good,</hi> but in his opinion wants Title, though the Law be on his ſide. This can be for no other Reaſon, but that whatſoever becomes of the State,
+<note place="margin">
+                  <hi>Vid. pag.</hi> 41 <hi>without condemning the Doctrine of Non-re<g ref="char:EOLhyphen"/>ſiſtance.</hi>
+               </note> Church-Men muſt not recede from their darling-Notion of <hi>Non-reſiſtance.</hi> And rather than they ſhould be thought <hi>Eccleſiaſtical Weather-cocks,</hi> the State muſt be turn'd round again into Confuſion. Nor do they care how much they reflect upon thoſe noble Patriots, who invited this King when he was Prince,
+<note place="margin">Ibid.</note> and appeared in Arms
+<pb n="30" facs="tcp:40481:15"/>with him for the Proteſtant Cauſe; If they can but free their <hi>Coat</hi> from the neceſſity of retracting thoſe <hi>Slaviſh Doctrines,</hi>
+               <note place="margin">Vid. Jovo<g ref="char:EOLhyphen"/>an, In all ſoveraign Govern<g ref="char:EOLhyphen"/>ments the Subjects are and ought to be ſlaves if if the King pleaſes.</note> which though many of them have renounced in their Actions they would ſtill juſtify in Principle. And as it is to be preſum'd that every Man will act according to his Principle when he has an inviting Opportunity; I leave it to all impar<g ref="char:EOLhyphen"/>tial Men to conſider, which are moſt likely to be true to the preſent Government, they who believe the Soveraign Power <hi>inſeparable from the Perſon of the late King,</hi> that they were in a State of Damnation who offered to reſiſt his Arbitrary Uſurpations, that themſelves are exempted from aſſiſting this Govern<g ref="char:EOLhyphen"/>ment with their Perſons or their Arms in the utmoſt Extremity, and may reſiſt when they are likely to eſ<g ref="char:EOLhyphen"/>cape temporal Judgment: Or they who are ready to hold to the Death, that our preſent King has as good a Title as ever King of <hi>England</hi> had; Which has already been evinced in ſome Meaſure; And did the Men of Scruples vouchſafe to produce any colo<g ref="char:EOLhyphen"/>urable Objection,
+<note place="margin">
+                  <hi>Hiſtory of Paſſive O<g ref="char:EOLhyphen"/>bedience conſidered. Vid.</hi> Pre<g ref="char:EOLhyphen"/>face.</note> ſhould be farther.</p>
+            <p>Indeed a certain injudicious <hi>Author</hi> has, with a plain evil Deſign againſt the preſent Settlement, heapt up Numbers of Quotations to prove, that it is <hi>a Truth as eternal and unalterable</hi> as any <hi>Doctrine of Chriſtia<g ref="char:EOLhyphen"/>nity,</hi> that a Superior is not <hi>in Things unlawful</hi> to be reſiſted, <hi>upon any pretence whatſoever:</hi> in the utmoſt extent of which Aſſertion,
+<note place="margin">Ibid:</note> no ſort of <hi>Superior,</hi> Juſtice of the Peace or other is to be reſiſted, even where he acts without colour of his Office.</p>
+            <p>But what he drives at is, that Men ought to be <hi>unalterably true to their Oaths,</hi> and ſuppos'd Duty to the late King: at leaſthe will allow of no diſcharge in Law ſufficient,
+<note place="margin">
+                  <hi>Hiſt. pag.</hi> 54.</note> unleſs the late King give an ex<g ref="char:EOLhyphen"/>preſs releaſe; and according to his Quotation out of
+<pb n="31" facs="tcp:40481:15"/>Dr. <hi>Hammond's practical Catechiſm,</hi>
+               <note place="margin">
+                  <hi>Hiſtory, pag.</hi> 54.</note> will have the Duty of Allegiance to continue <hi>where the ſuppos'd legal Soveraign doth ſtill claim his Right to his King<g ref="char:EOLhyphen"/>doms, and to the Allegiance of his Subjects, no way acquit<g ref="char:EOLhyphen"/>ting them from their Oaths, or laying down his Pretenti<g ref="char:EOLhyphen"/>ons, though for the preſent he be overpower'd.</hi>
+            </p>
+            <p>This I am ſure he will never prove to be <hi>the ſteady Doctrine</hi> of that <hi>Church,</hi>
+               <note place="margin">Preface.</note> which he calls <hi>poor and de<g ref="char:EOLhyphen"/>ſpiſed,</hi> and of <hi>whoſe Intereſts he pretends to the deepeſt ſenſe,</hi> while he would render it, ſuch, by keeping it too firmly attach'd to the Intereſt of the late miſ<g ref="char:EOLhyphen"/>guided and unfortunate King: let him if he can ſqueez this ſenſe out of its <hi>Articles</hi> or <hi>Homilies.</hi> Certain it is, he is far from bringing a <hi>cloud of Wit<g ref="char:EOLhyphen"/>neſſes</hi> to his imaginary <hi>eternal verity.</hi>
+            </p>
+            <p>Few of the paſſages which he cites enforce more than Obedience to lawful Authority: ſome indeed, and chiefly Perſons now alive, let fall expreſſions through inadvertency, or prevalence of ſtrong Temptations, which 'tis to be hoped that many of them have re<g ref="char:EOLhyphen"/>pented of; ſince their later Diſcourſes and Practices notoriouſly contradict them: and ſurely little proof of the <hi>ſteady Doctrine</hi> of a Church can be had from ſuch Inconſtancy. I muſt own that this Collection is to one purpoſe very uſeful; for ſome of them wanted to be thus Admoniſh'd of their frailty: and 'twill be happy for them, if this Humiliation can expiate for that poiſon, which has infected many be<g ref="char:EOLhyphen"/>yond Remedy, from the Antidote they now yield; while <hi>out of the Eater comes forth Meat,</hi> and themſelves pull down that Edifice, which they had been building with great Pains.</p>
+            <p>But what Rivers can waſh away the ſtain of ſo much noble Blood, as has been offer'd up to this <hi>Mo<g ref="char:EOLhyphen"/>loch,</hi> a meer <hi>Figure,</hi> which ſome have <hi>made to wor<g ref="char:EOLhyphen"/>ſhip?</hi>
+               <pb n="32" facs="tcp:40481:16"/>Had it not been for this <hi>Idol,</hi> worſe than ever the <hi>Clowns</hi> choſe, the Earl of <hi>Eſſex,</hi> Lord <hi>Ruſſel,</hi> and <hi>Colonel Sydny</hi> had been now alive in their large Capacities for heroic Actions and wholſom Counſels, as well as in their immortal Memories; and had been as conſpicuous now for the reward of their Merit, as they have been for their Sufferings. Under the Protection of this <hi>Figure,</hi> came out that ſhadow of a <hi>Vindication of the late Magiſtracy and Government of</hi> England,
+<note place="margin">
+                  <hi>The cenſure of the two Vindications of the Magiſtracy and Go<g ref="char:EOLhyphen"/>vernment of</hi> England, <hi>written againſt the de<g ref="char:EOLhyphen"/>fence of</hi> Lord Ruſſels <hi>Innocence.</hi>
+               </note> in Two parts, which are more <hi>weak and Criminal attempts</hi> upon the never-dying Fame of the Ld. <hi>Ruſſel,</hi> than any that he has been prov'd guilty of, otherwiſe than by a Verdict. The falſe colours in the firſt of theſe have been ſufficiently expos'd by Mr. <hi>Hawles,</hi> and the ſecond Anticipated. Both of them, out of pretend<g ref="char:EOLhyphen"/>ed Zeal for the preſent <hi>Government,</hi> juſtify the laſt, and therein condemn this, as wanting juſt Occaſion or Foundation: and while the Author labours to waſh the Blackamore white, he beſpatters the Inno<g ref="char:EOLhyphen"/>cent: and yet after his Thundring pretences to migh<g ref="char:EOLhyphen"/>ty feats, all reſolves it ſelf into a clearing the then <hi>Recorder,</hi> who pronounc'd Judgment upon the Indict<g ref="char:EOLhyphen"/>ment which was found: but the overruling and impoſing <hi>Judges,</hi> the complying <hi>Jury</hi> (who in their paſſive Obedience to the Bench ſhew'd how much they had profited by that Doctrine) the ſcandalous <hi>Evidence,</hi> and ſtabbing <hi>Rhetorick</hi> of the eager <hi>Coun<g ref="char:EOLhyphen"/>ſel,</hi> are left to ſhift for themſelves.</p>
+            <p>Our <hi>Collector</hi> I find as impotent in his Heat as the <hi>Vindicator:</hi>
+               <note place="margin">
+                  <hi>Page</hi> 118.</note> after all the formidable things which he has produc'd to ſhew the <hi>remedileſs Caſe of Mankind by the Encroachments of Princes;</hi>
+               <note place="margin">
+                  <hi>Page</hi> 27.</note> he confeſſes that where a <hi>Government was founded in compact, and all priviledges Sacred and Civil contrary to that agreement
+<pb n="33" facs="tcp:40481:16"/>were invaded; this alters the Caſe, while it can no way hold good in Governments where there is no ſuch Com<g ref="char:EOLhyphen"/>pact.</hi>
+            </p>
+            <p>And herein we are agreed.</p>
+            <q>
+               <l>Hi motus animorum, atque haec certamina tanta,</l>
+               <l>Pulveris exigui jactu compoſta quieſcunt.</l>
+            </q>
+            <p>Thus notwithſtanding all the flouriſh of Quotati<g ref="char:EOLhyphen"/>ons from <hi>Divines,</hi> he ſends us to the <hi>Common-Law<g ref="char:EOLhyphen"/>yers.</hi> And one would think he was aſleep when he made uſe of this paſſage from the witty Dr. <hi>Donne,</hi>
+               <note place="margin">
+                  <hi>Page</hi> 40.</note> Though ſome ancient Greek States which are call'd <hi>Regna Laconica,</hi> becauſe they are ſhortned and <hi>limi<g ref="char:EOLhyphen"/>ted to certain Laws; and ſome States in our time, ſeem to have conditional and proviſional Princes, between whom and Subjects there are mutual and reciprocal Obli<g ref="char:EOLhyphen"/>gations, which if one ſide break, they fall on the other:</hi> Yet that Soveraignty, which is a power to do all things available to the main Ends, reſides ſomewhere, which if it be in the hands of one Man, erects and per<g ref="char:EOLhyphen"/>fects that <hi>Pambaſilia</hi> of which we ſpeak.</p>
+            <p>If therefore thoſe Expreſſions which run higheſt in maintenance of the unalterable Right of Princes, can reaſonably be intended only of ſuch as have the <hi>Power to do all things available to the main ends</hi> of Government, without Limitation to <hi>certain Laws;</hi> then they who have not this unlimited Power by the Conſtitution, may be <hi>conditional and proviſional Prin<g ref="char:EOLhyphen"/>ces.</hi>
+            </p>
+            <p>Should now our <hi>Hiſtorian</hi> ſtrike out all his dead Authors, who have expreſſions of a quite contrary
+<pb n="34" facs="tcp:40481:17"/>import to what he cites from themſelves or others, and all thoſe living ones who have contradicted themſelves in Words, or a ſeries of Actions; I aſſure my ſelf his bulky Book would ſhrink into a very nar<g ref="char:EOLhyphen"/>row Compaſs: and yet as it is, himſelf has condemn'd it to lie for waſt paper, till he proves our Govern<g ref="char:EOLhyphen"/>ment was not <hi>founded in Compact,</hi> and that there are no Limitations by Laws to make it ſuch an one as Dr. <hi>Donne</hi> calls <hi>Laconic.</hi> When he produces his Evi<g ref="char:EOLhyphen"/>dence of a <hi>Pambaſilia</hi> here, I ſhould think it no difficult task to convince all but himſelf of his Er<g ref="char:EOLhyphen"/>ror.</p>
+            <p>I take Judg <hi>Brouhgton</hi> to be the beſt Reſolver of all Scruples in this kind that ever I met with of a <hi>Divine,</hi> even better than that <hi>Great Man,</hi> who as he has been ſhewn moſt of his Miſtakes upon the <hi>Grand Queſtion,</hi> by that extraordinary Perſon, lately deceaſed, Dr. <hi>Twiſden,</hi> little inferiour to his Brother Sir <hi>Roger,</hi> ſo I ſuppoſe he is by this time ſatisfied that the <hi>Fundamental Contract</hi> is not ſo <hi>inviſible,</hi> but it may be found and underſtood.</p>
+            <p>The <hi>Collector</hi> refers to a Book, which I muſt own never to have been maſter of, written by a Perſon now of great Eminence and Station, with theſe Words;</p>
+            <p>
+               <hi>If you charge the Doctrine of abſolute Submiſſion as brutiſh or ſtupid,
+<note place="margin">
+                     <hi>P.</hi> 73.</note> or contrary to the Law of Nature, ſee you do not run into Blaſphemy, by charging the Holy one fooliſhly.</hi>
+            </p>
+            <p>Some would think the <hi>Obedience without Reſerve</hi> required of the Scotch Nation, to be but a due Improvement of this. But I may refer him to the
+<pb n="35" facs="tcp:40481:17"/>Laws of our Land, common Senſe, or the ſame Per<g ref="char:EOLhyphen"/>ſons better thoughts, for a more generous Idea of this matter.</p>
+            <p>And if our learned <hi>Rabbies</hi> go about to ſhew, that the frightful Repreſentation which <hi>Samuel</hi> made of the way or manner of future Kings of <hi>Iſrael,</hi>
+               <note place="margin">
+                  <hi>Page</hi> 69.</note> was but the <hi>Jus Regium, the Fundamental Law of the Kings of</hi> Iſrael;
+<note place="margin">
+                  <hi>Page</hi> 78.</note> and that the Kings of <hi>England</hi> have <hi>a Supremacy in their Dominion in all Cauſes Eccleſiaſtical and Secular, according to the Powers inveſted in the Jewiſh Kings under the Law.</hi>
+            </p>
+            <p>Wherein, indeed, I tack together the Propoſition of one, in Explanation of the other; yet if the laſt meant it in the ſame ſenſe, in which the other ex<g ref="char:EOLhyphen"/>plains the Power of the Kings of <hi>Iſrael;</hi> I may well call for the Pedigree, to prove how our Kings de<g ref="char:EOLhyphen"/>rive their Title to this, or that Law which makes the Jewiſh Polity Univerſal: and for a clearer Ar<g ref="char:EOLhyphen"/>gument <hi>ad hominem,</hi> I muſt ſay, that very <hi>Author's</hi> own Practice is a ſufficient Confutation.</p>
+            <p>But if they who are by the great and magna<g ref="char:EOLhyphen"/>nimous <hi>Prince,</hi> who now fills the Throne, called to a more perfect Law of Liberty in this Year of <hi>Jubilee,</hi> refuſe to be free; I may ſay, that like the <hi>Hebrew Servant</hi> bought with a price, or rather Slave, in the ſame caſe, they ſhould have their <hi>Ears boar'd</hi> to diſtin<g ref="char:EOLhyphen"/>guiſh them from others, who delight not in Slavery.</p>
+            <p>And if while Bleſſings, like <hi>God Almighty's,</hi> de<g ref="char:EOLhyphen"/>ſcend upon the <hi>Evil and the Good,</hi> the Enemies and the Friends to our Peace; my <hi>Fleece,</hi> as that of <hi>Gide<g ref="char:EOLhyphen"/>on</hi>'s, remains unwatered with the Dew of <hi>Heaven;</hi> I
+<pb n="24" facs="tcp:40481:18"/>muſt conſider, that even that was to him a Sign of God's Preſence.</p>
+            <p>And the this ſhould, with former Services to the Publick, be made matter of Accuſation, yet ought I not to faint in the Cauſe of Truth, and my Coun<g ref="char:EOLhyphen"/>try; which amidſt many Imperfections and Diſad<g ref="char:EOLhyphen"/>vantages, I muſt avow to the World, from the firſt dawnings of my Underſtanding, ever to have ſerv'd with Sincerity, and the utmoſt Endeavours of,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Yours moſt faithfully, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40481:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
